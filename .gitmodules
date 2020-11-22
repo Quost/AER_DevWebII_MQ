@@ -1,3 +1,3 @@
 [submodule "mqdev.github.io"]
-	path = AER1/mqdev.github.io
+	path = AER1
 	url = https://github.com/MQDev/mqdev.github.io.git
