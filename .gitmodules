@@ -1,0 +1,3 @@
+[submodule "mqdev.github.io"]
+	path = mqdev.github.io
+	url = https://github.com/MQDev/mqdev.github.io.git
